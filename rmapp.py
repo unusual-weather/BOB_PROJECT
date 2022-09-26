@@ -1,8 +1,8 @@
 import os
 
 ## parser.py가 실행도중에 끊기는 경우가 있어 rmapp.py를 통해 뽑은 app들은 삭제해주는 기능
-app = "D:\\data\\malapp"
-Json_Data = "D:\\data\\mal_json"
+Checking = "C:\\PROJECT\\parser\\new\\mal_json"
+Json_Data = "C:\\PROJECT\\parser\\new\\nor_json"
 
 
 checking_list = os.listdir(Checking)
